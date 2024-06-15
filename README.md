@@ -1,12 +1,11 @@
-Sure! Here's a detailed README file for your Niryat Portal chatbot project:
 
----
 
 # Niryat Portal Chatbot
 
 This project involves the development of a chatbot for the Niryat Portal, India's premier export portal. The chatbot, created using Gemini and Streamlit, provides answers to questions related to exports and their commodities, enhancing user experience and providing valuable insights.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpmmodiyojana.in%2Fniryat-portal%2F&psig=AOvVaw1BImpZ4VCKyhiHDHOU8VU3&ust=1718518242369000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjKncD53IYDFQAAAAAdAAAAABAE)
+![](![image](https://github.com/VidhiSharma426/Nirayt-Project/assets/97930187/3499d682-1e0f-4152-a174-b0119d6f56bd)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
