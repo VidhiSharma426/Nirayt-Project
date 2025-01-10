@@ -1,8 +1,9 @@
-speechrecognition
-streamlit
-PyPDF2
+faiss-cpu
 langchain
 langchain_google_genai
+PyPDF2
+speechrecognition
+streamlit
 numpy
 pandas
 scikit-learn
