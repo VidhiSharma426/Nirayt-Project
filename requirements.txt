@@ -2,6 +2,7 @@ speechrecognition
 streamlit
 PyPDF2
 langchain
+langchain_google_genai
 numpy
 pandas
 scikit-learn
