@@ -1,9 +1,9 @@
-faiss-cpu
+langchain-community
 langchain
-langchain_google_genai
-PyPDF2
+faiss-cpu  # or faiss-gpu, depending on your setup
 speechrecognition
 streamlit
+PyPDF2
 numpy
 pandas
 scikit-learn
