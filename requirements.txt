@@ -1,6 +1,7 @@
 speechrecognition
 streamlit
 PyPDF2
+langchain
 numpy
 pandas
 scikit-learn
