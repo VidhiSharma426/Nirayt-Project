@@ -1,0 +1,9 @@
+speechrecognition
+streamlit
+PyPDF2
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+opencv-python
